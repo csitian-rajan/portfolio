@@ -1,0 +1,28 @@
+[
+    {
+    "id":"1",
+    "name":"HTML",
+    "icon":"FaHtml5"
+}, {
+    "id":"2",
+    "name":"CSS",
+    "icon":"FaCss3"
+}, {
+    "id":"3",
+    "name":"JavaScript",
+    "icon":"FaJs"
+}, {
+    "id":"4",
+    "name":"React",
+    "icon":"FaReact"
+},{
+    "id":"5",
+    "name":"TailwindCSS",
+    "icon":"SiTailwindcss"
+},
+{
+    "id":"6",
+    "name":"Bootstrap",
+    "icon":"SiBootstrap"
+}
+]

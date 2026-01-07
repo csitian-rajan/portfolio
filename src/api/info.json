@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "9812152328",
+        "icon": "FaPhoneAlt",
+        "language":"English"
+       
+    },
+    {
+        "id": 2,
+        "name": "Email",
+        "icon": "IoMdMail",
+        "language":"Nepali"
+      
+    },
+    {
+        "id": 3,
+        "name": "Address",
+        "icon": "FaLocationDot",
+        "language":"Maithili"
+    },
+    {
+        "id": 4,
+        "name": "GitHub Profile",
+        "icon": "FaGithub",
+        "language":"Hindi"
+    },
+    {
+        "id": 5,
+        "name": "LinkedIn Profile",
+        "icon": "FaLinkedin",
+        "language":""
+    }
+
+]

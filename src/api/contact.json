@@ -1,0 +1,32 @@
+[
+    {
+       "id": 1,
+         "name": "Email",
+         "detailed": "rajankraut19@gmail.com",
+         "icon": "IoMdMail"
+    },
+    {
+       "id": 2,
+         "name": "Phone",
+         "detailed": "+977 9812152328",
+         "icon": "FaPhone"
+    },
+    {
+       "id": 3,
+         "name": "Location",
+         "detailed": "kathamandu, Nepal",
+         "icon": "FaLocationDot"
+    },
+    {
+       "id": 4,
+         "name": "Linkedin",
+         "detailed": "https://www.linkedin.com/in/rajankraut",
+         "icon": "FaLinkedin"
+    },
+    {
+       "id": 5,
+         "name": "Github",
+         "detailed":"https://github.com/csitian-rajan",
+         "icon": "FaGithub"
+    }
+]

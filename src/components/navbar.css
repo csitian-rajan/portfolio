@@ -1,0 +1,44 @@
+.container-navbar{
+    background-color:rgb(3, 7, 20);
+    color:rgb(227, 227, 227);
+    padding: 0px 100px 0px 100px;
+    & a{
+        text-decoration: none;
+        padding: 10px;
+    }
+    & button{
+        cursor: pointer;
+    }
+}
+
+.ham-menu{
+    display: none;
+}
+
+@media  screen and (max-width:998px){   
+    .menu-desktop{
+        display: none
+    }
+    .ham-menu{
+        display: inline-block;
+        justify-content:flex-end
+    }
+    .menu-mobile .navigation{
+    display: flex;
+    position:absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    top: 80px;
+    left: 0;
+    gap: 0px;
+    padding: auto;
+    background-color: rgba(3,7,18,0.8);
+}
+
+    }
+
+
+    /* hero serction */
+    

@@ -1,0 +1,36 @@
+{
+    "educationData": [
+        {
+        "id": 1,
+        "course": "Bsc. CSIT",
+        "College": "Birat Multiple Campus",
+        "University": "Tribhuvan University",
+        "level": "8th Semester Running"
+        },
+        {
+        "id": 2,
+        "course": "Technical And Vocational",
+        "College": "Shree Yagyabalkya Sanskrit Sec. School",
+        "University": "Gyankoop,Dhanusha",
+        "level": "9th-12th"
+        }
+       
+    ],
+    "Certifications": [
+        {
+        "id": 1,
+        "course":"Frontend Development Training",
+        "platform": "Birat Multiple College",
+        "link": "https://www.udemy.com/certificate/UC-XXXXXXXXX/",
+        "date":"2023"
+        },
+        {
+        "id": 2,
+        "course": "Wordpress Developement Training",
+        "platform": "Birat Multiple College",
+        "link": "https://www.freecodecamp.org/certification/username/responsive-web-design",
+        "date":"2024"
+        }
+       
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "projectsDetails": [
+        {
+        "id": 1,
+        "name": "Quiz Flow",
+        "teckTitle":"MERN Stack Application",
+        "description":"Developed an online quiz platform for students to test and track their progress. Features user authentication, topic-based quiz creation, and performance analytics.",
+        "teckstack":["MongoDB","Express.js","React","Node.js"],
+        "View": "View Code",
+        "link": "https://github.com/csitian-rajan/Final-Year-Project",
+        "color":"sky"
+        },
+        {
+        "id": 2,
+        "name": "NGO Website",
+         "teckTitle":"WordPress Live",
+        "description": "Developed a WordPress website for an NGO to promote awareness and donations. Handled full cycle from design, content upload, and theme customization to deployment.",
+        "teckstack":["WordPress","Elementor","Costom Theme"],
+        "View": "View Demo",
+        "link":"https://www.nyayjanhitfoundation.org.np",
+        "color":"pink"
+        },
+        {
+        "id": 3,
+        "name": "E-commerce Website",
+        "teckTitle":"WooCommerce",
+        "description":"Built a complete online store with product management, payment gateway, and shipping setup for client business needs.",
+        "teckstack":["WooCommerce","WordPress","wpForms"],
+        "View": "View Demo",
+        "link":"https://heroic-daifuku-1c78dd.netlify.app/",
+        "color":"pink"
+        },
+         {
+        "id": 4,
+        "name": "Learning Platform",
+        "teckTitle":"CSS Design Project",
+        "description":"Designed a responsive landing page using HTML5 and CSS3 with animations and clean UI.",
+        "teckstack":["HTML5","CSS3","Responsive design"],
+        "View": "View Demo",
+        "link":"https://csitianrajan.netlify.app/",
+        "color":"sky"
+        }
+    ]
+}

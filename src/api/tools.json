@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "name":"git",
+        "icon":"FaGit"
+    },
+    {
+        "id":"2",
+        "name":"GitHub",
+        "icon":"FaGithub"
+    },
+    {
+        "id":"3",
+        "name":"VS Code",
+        "icon":"SiVisualstudiocode"
+    },
+    {
+        "id":"4",
+        "name":"Postman",
+        "icon":"SiPostman"
+    },
+    {
+        "id":"5",
+        "name":"python",
+        "icon":"SiPython"
+    },
+    {
+        "id":"6",
+        "name":"c",
+        "icon":"SiC"
+    },
+    {
+        "id":"7",
+        "name":"cpp",
+        "icon":"SiCplusplus"
+    }
+]
