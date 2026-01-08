@@ -9,7 +9,7 @@ export const Projects = () => {
         projects-section 
         text-white 
         flex flex-col items-center 
-        !px-4 sm:!px-6 md:!px-0 border
+        !px-4 sm:!px-6 md:!px-0 
       ">
         <h1 className="
           !mt-20 

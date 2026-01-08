@@ -10,7 +10,7 @@ export const Education = () => {
           text-white 
           flex flex-col items-center 
           min-h-screen
-          !px-4 sm:!px-6 md:!px-0 border
+          !px-4 sm:!px-6 md:!px-0 
         ">
         
           <h1 className=" 

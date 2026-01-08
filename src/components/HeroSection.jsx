@@ -13,8 +13,6 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
         className="
         hero-section 
         flex justify-center items-center  
-          border-b border-gray-600 
-        
         min-h-screen
         !px-4 sm:px-5 md:px-0  
       "
@@ -64,7 +62,7 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
               text-transparent 
               bg-clip-text 
               bg-gradient-to-r 
-              from-sky-600 via-white-500 to-pink-400
+              from-sky-400 via-pink-400 to-lime-400
             "
             >
               Web Developer
@@ -106,12 +104,11 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
                 View Project
               </button>
               
-              <button
-                className="bg-lime-500 !px-2 !py-3 text-1xl font-bold text-white border border-white rounded-lg shadow-lg transition ease-in-out duration-300 hover:scale-110 hover:shadow-1xl hover:shadow-pink-500"
-                onClick={() => scrollToSection(ProjectsRef)}
+              <a href="/Rajan_Raut_Resume.pdf" download={"Rajan_Raut_Resume.pdf"}
+                className="bg-lime-500 !px-2 !py-3 text-1xl font-bold text-black border border-white rounded-lg shadow-lg transition ease-in-out duration-300 hover:scale-110 hover:shadow-1xl hover:shadow-lime-500"
               >
-                View Resume
-              </button>
+                Download Resume
+              </a>
             </div>
           </div>
 

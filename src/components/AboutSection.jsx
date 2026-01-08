@@ -21,9 +21,10 @@ export const AboutSection = () => {
         about-section 
         text-white 
         flex justify-center !flex-col !items-center 
-        h-170 
+      
         min-h-screen
-        !px-4 sm:px-6 md:px-0  
+       
+        !px-4 !sm:6px md:px-0  
       ">
         <h1 className="
           !mb-8 
@@ -42,7 +43,7 @@ export const AboutSection = () => {
             container-hero    
             !px-6 sm:!px-10 md:!px-13 
             !mt-2 
-            !h-auto md:!h-[450px]
+            !h-150 md:!h-[450px]
             w-full md:w-[1200px]
             backdrop-blur-xl 
             bg-white/2  
@@ -91,7 +92,7 @@ export const AboutSection = () => {
                         border-pink-600 
                         rounded-xl 
                         !p-2 
-                        !mt-2 
+                        !mt-2  !mb-5
                         hover:text-pink-400 
                         hover:border-pink-400 
                       "

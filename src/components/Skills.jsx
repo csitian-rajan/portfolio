@@ -11,7 +11,7 @@ export const Skills = () => {
             text-white 
             flex flex-col items-center    
             min-h-screen
-            px-4 sm:px-6 md:px-0 border !mt-10
+            px-4 sm:px-6 md:px-0 !mt-10
           ">
             <h1 className="
               !mt-20

@@ -21,7 +21,7 @@ export const Contact = () => {
           contact-section 
           text-white 
           flex justify-center !flex-col items-center 
-          h-auto !mb-30
+          h-auto !mb-20
           !px-4 sm:px-2 md:px-0
         ">
             <h1 className="
@@ -49,7 +49,7 @@ export const Contact = () => {
                 <div className="language border-grey-800 !px-2 sm:!px-5 !py-5 grid grid-cols-1 sm:grid-cols-2 gap-5 sm:items-start">
                     {contactDetails.map((info)=>{
                         return(
-                            <div key={info.id} className='text-sm flex flex-col sm:flex-row gap-0 items-start sm:items-center'>
+                            <div key={info.id} className='text-sm flex flex-col sm:flex-row gap-2 items-start sm:items-center'>
                                 <h1 className={`info-icon !p-2 text-xl bg-${borderColors[info.id - 1]}-400 !p-2 rounded-xl !mt-2 flex items-center gap-2 hover:scale-110 hover:shadow-1xl hover:shadow-sky-500 transition ease-in-out duration-300`}>
                                     {iconMap[info.icon]}
                                 </h1>
@@ -69,7 +69,7 @@ export const Contact = () => {
                 </div>
             </div>
 
-            <div className="mt-5 text-center">
+            <div className="!mt-5 text-center">
                 <span className="relative text-gray-400 text-sm sm:text-base">© 2024 Rajan Kumar Raut. All rights reserved.</span>
             </div>
         </section>
