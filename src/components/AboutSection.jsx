@@ -17,7 +17,7 @@ export const AboutSection = () => {
 
   return (
     <>
-      <section className="
+      <section className=" mt-20
         about-section 
         text-white 
         flex justify-center !flex-col !items-center 
