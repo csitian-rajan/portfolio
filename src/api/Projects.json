@@ -6,8 +6,8 @@
         "teckTitle":"MERN Stack Application",
         "description":"Developed an online quiz platform for students to test and track their progress. Features user authentication, topic-based quiz creation, and performance analytics.",
         "teckstack":["MongoDB","Express.js","React","Node.js"],
-        "View": "View Code",
-        "link": "https://github.com/csitian-rajan/Final-Year-Project",
+        "View": "View Demo",
+        "link": "https://quizflows.netlify.app/",
         "color":"sky"
         },
         {

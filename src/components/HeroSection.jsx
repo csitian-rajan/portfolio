@@ -104,7 +104,7 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
                 View Project
               </button>
               
-              <a href="/Rajan_Raut_Resume.pdf" download={"Rajan_Raut_Resume.pdf"}
+              <a href={`${import.meta.env.BASE_URL}Rajan_Raut_Resume.pdf`} target="_Blank"
                 className="bg-lime-500 !px-2 !py-3 text-1xl font-bold text-black border border-white rounded-lg shadow-lg transition ease-in-out duration-300 hover:scale-110 hover:shadow-1xl hover:shadow-lime-500"
               >
                 Download Resume
