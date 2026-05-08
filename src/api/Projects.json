@@ -1,7 +1,17 @@
 {
     "projectsDetails": [
+            {
+          "id": 1,
+        "name": "Aggency.Ai",
+        "teckTitle":"React Application",
+        "description":"Created a responsive animated  landing page for an AI agency using React, Framer Motion and w3 forms  showcasing services and client testimonials with smooth animations.",
+        "teckstack":["React","Framer Motion","W3Forms"],
+        "View": "View Demo",
+        "link": "https://aggency-ai-1kib.vercel.app/",
+        "color":"sky"
+        },
         {
-        "id": 1,
+        "id": 2,
         "name": "Quiz Flow",
         "teckTitle":"MERN Stack Application",
         "description":"Developed an online quiz platform for students to test and track their progress. Features user authentication, topic-based quiz creation, and performance analytics.",
