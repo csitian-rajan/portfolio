@@ -10,14 +10,14 @@ Error generating stack: `+a.message+`
         hero-section \r
         flex justify-center items-center  \r
         min-h-screen\r
-        !px-4 sm:px-5 md:px-0  \r
+        !px-4 sm:px-0 md:px-0  \r
       `,children:o.jsxs("div",{className:` \r
           !mt-20\r
           container-hero  \r
           grid grid-cols-1 md:grid-cols-2\r
           !h-auto md:!h-150\r
           gap-10 md:gap-20 \r
-          !px-25  \r
+         \r
           \r
           w-full md:w-[1200px]\r
           !px-6  sm:px-10 md:px-16\r
@@ -30,7 +30,7 @@ Error generating stack: `+a.message+`
             flex flex-col \r
             justify-center \r
             items-center \r
-            text-center md:text-center\r
+            text-center md:text-left \r
           `,children:[o.jsx("h3",{className:"text-2xl font-sans text-yellow-400 font-bold ",children:"Hi, Iam"}),o.jsx("h1",{className:"text-white text-3xl sm:text-4xl md:text-5xl font-serif font-bold",children:"Rajan kumar Raut"}),o.jsx("div",{className:"h-1 w-40 md:w-50 bg-gradient-to-t from-sky-500 to-indigo-500"}),o.jsx("h1",{className:`\r
               text-2xl sm:text-3xl \r
               !mt-2 \r
