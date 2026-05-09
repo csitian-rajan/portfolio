@@ -2,7 +2,7 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 import PojectsData from "../api/projects.json";
 
 export const Projects = () => {
-  const borderColors = ["sky", "lime", "lime", "sky", "lime", "sky", "lime", "sky"];
+  const borderColors = ["sky", "lime", "lime", "sky", "sky", "lime", "lime", "sky"];
   return (
     <>
       <section className="
