@@ -1,5 +1,5 @@
 // import profileImg from "../assets/rajanportfolio.png";
-import profileImg from "../assets/rajanportfolio.png";
+import profileImg from "../assets/portfolio3.png";
 
 export const Herosection = ({ ContactRef, ProjectsRef }) => {
   const scrollToSection = (ref) => {
@@ -14,7 +14,7 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
         hero-section 
         flex justify-center items-center  
         min-h-screen
-        !px-4 sm:px-5 md:px-0  
+        !px-4 sm:px-0 md:px-0  
       "
       >
         <div
@@ -24,7 +24,7 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
           grid grid-cols-1 md:grid-cols-2
           !h-auto md:!h-150
           gap-10 md:gap-20 
-          !px-25  
+         
           
           w-full md:w-[1200px]
           !px-6  sm:px-10 md:px-16
@@ -40,7 +40,7 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
             flex flex-col 
             justify-center 
             items-center 
-            text-center md:text-center
+            text-center md:text-left 
           "
           >
             <h3 className="text-2xl font-sans text-yellow-400 font-bold ">
@@ -112,11 +112,11 @@ export const Herosection = ({ ContactRef, ProjectsRef }) => {
             </div>
           </div>
 
-          <div className="relative flex justify-center items-center  bottom-10">
+          <div className="relative flex justify-center items-center  ">
             <div className="absolute inset-10 md:inset-15 bg-sky-500 blur-2xl opacity-50 rounded-full"></div>
             <img
               src={profileImg}
-              className="relative h-48 sm:h-60 md:h-150"
+              className="relative"
               alt="profile"
             />
           </div>
